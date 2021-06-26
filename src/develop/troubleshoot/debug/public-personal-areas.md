@@ -34,3 +34,4 @@ You must publish a module in the Public Area at least once before publishing it 
 * Timers
 * Roles
 * Module references
+* Processes
